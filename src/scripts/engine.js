@@ -189,8 +189,11 @@ function init() {
     drawCards(5, state.playerSides.player1);
     drawCards(5, state.playerSides.computer);
 
+}
+
+function onLoadPage() {
     const bgm = document.querySelector('#bgm');
-    // bgm.play();
+    bgm.play();
 }
 
 init();

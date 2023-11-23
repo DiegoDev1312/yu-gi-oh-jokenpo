@@ -12,4 +12,4 @@ Projeto feito junto ao bootcamp da Dio.
     <li>HTML, CSS e JavaScript</li>
 </ul>
 
-Link para jogar: 
+Link para jogar: <a href="https://diegodev1312.github.io/yu-gi-oh-jokenpo/">https://diegodev1312.github.io/yu-gi-oh-jokenpo/</a>
