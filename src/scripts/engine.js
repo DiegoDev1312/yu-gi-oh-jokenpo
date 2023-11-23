@@ -24,7 +24,7 @@ const state = {
     },
 };
 
-const pathImage = "/src/assets/icons/";
+const pathImage = "./src/assets/icons/";
 
 const cardData = [
     {
