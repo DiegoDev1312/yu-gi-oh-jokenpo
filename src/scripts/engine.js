@@ -190,7 +190,7 @@ function init() {
     drawCards(5, state.playerSides.computer);
 
     const bgm = document.querySelector('#bgm');
-    bgm.play();
+    // bgm.play();
 }
 
 init();
